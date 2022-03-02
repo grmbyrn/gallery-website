@@ -243,3 +243,26 @@ span{
   line-height: 1.625rem;
   margin-bottom: 2.375rem;
 }
+
+/* LOCATION PAGE */
+
+.location{
+  background-color: var(--almost-black);
+}
+
+.location__title{
+  font-size: 50px;
+  color: white;
+  font-family: var(--big-shoulders);
+  font-weight: 900;
+}
+
+.address-details__title{
+  color: var(--gold);
+  font-size: 32px;
+}
+
+.address-details__address,
+.address-details__desc{
+
+}
